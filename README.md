@@ -1,2 +1,2 @@
 # rito_bot
-Python Discord bot for our very own League discord
+Python Discord bot the official League Mundo Club discord
